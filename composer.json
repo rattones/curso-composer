@@ -1,0 +1,21 @@
+{
+    "name": "curso/composer-php",
+    "description": "Curso de Composer-PHP",
+    "require": {
+        "monolog/monolog": "^1.22",
+        "php": ">7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcelo Ratton",
+            "email": "contato@marceloratton.com"
+        }
+    ],
+    "config": {
+        "vendor": "libraries"
+    }
+}
